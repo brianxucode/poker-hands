@@ -1,0 +1,5 @@
+/Users/brianxu/Documents/GitHub/hw04-xujbrian/CMakeFiles/main.dir
+/Users/brianxu/Documents/GitHub/hw04-xujbrian/CMakeFiles/ALL_BUILD.dir
+/Users/brianxu/Documents/GitHub/hw04-xujbrian/CMakeFiles/ZERO_CHECK.dir
+/Users/brianxu/Documents/GitHub/hw04-xujbrian/src/CMakeFiles/src.dir
+/Users/brianxu/Documents/GitHub/hw04-xujbrian/tests/CMakeFiles/tests.dir
